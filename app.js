@@ -8,4 +8,4 @@ app.get('/', function(req, res) {
 });
 
 app.listen(8083);
-module.exports.getApp = app;
+module.exports = app;
