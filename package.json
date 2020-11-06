@@ -1,0 +1,23 @@
+{
+  "name": "circleci-intro",
+  "version": "1.0.0",
+  "description": "Circleci introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhounkpe/circleci-intro.git"
+  },
+  "keywords": [
+    "Circleci",
+    "Automation"
+  ],
+  "author": "Rufin Hounkpe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhounkpe/circleci-intro/issues"
+  },
+  "homepage": "https://github.com/rhounkpe/circleci-intro#readme"
+}
